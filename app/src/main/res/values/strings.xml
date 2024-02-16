@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GradeCalculater</string>
+    <string name="calculate_grade">Calculate Grade</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="reset">Reset</string>
+    <string name="enter_marks_error">Please enter marks.</string>
+    <string name="marks_range_error">Marks should be between 0 and 100.</string>
+    <string name="grade_result">Grade: %s</string>
+</resources>
